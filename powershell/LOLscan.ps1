@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
   Simply run the script and provide input as prompted
 .DESCRIPTION
@@ -12,11 +12,11 @@
   Scan results printed to terminal
 .NOTES
   Title:          LOLscan.ps1
+  github:         https://github.com/taylor-marrion/reclass_samples/blob/main/powershell/LOLscan.ps1
   Version:        2.0
   Author:         Marrion, Taylor
   Creation Date:  06/14/2021
-  Purpose/Change: Perform network scan without installing third party software tools or modules
-                    "Living off the land"
+  Purpose/Change: "Living Off the Land" - Perform network scan without installing third party software tools or modules
 #>
 
 function IP-toINT64 () {
