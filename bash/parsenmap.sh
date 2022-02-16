@@ -1,5 +1,6 @@
 #!/bin/bash
 #title:		parsenmap.sh
+#github:	https://github.com/taylor-marrion/reclass_samples/blob/main/bash/parsenmap.sh
 #author:	Marrion, Taylor
 #date:		20190214
 #purpose:	This script will read Nmap network scan results saved to a .txt file and summarize usage of services.
